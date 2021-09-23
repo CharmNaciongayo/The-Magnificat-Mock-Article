@@ -1,1 +1,2 @@
 # The-Magnificat-Mock-Article
+This is a mock page for an article from The Magnificat (MCHS publication). This page focuses more on page layout with CSS, as well as different formatting styles in HTML. The strengths of the code for this page are that the code is organized, and it makes good use of some CSS animations. The main weakness, however, is that the code does not necessarily follow a logical flow, especially in the CSS file; also, HTML formatting could have been better utilized in order to decrease the file size of the page altogether.
